@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="En">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <table id="tabla" border="0">
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+ <form name="frm" method="POST" action="recibe.php">
+     <table>
+         <tr>
+             <td>NOM.TAREA</td>
+             <td colspan="0">
+                 <select name="cmbColor" id="selColores">
+                     <option></option>
+</select>
+</td>
+         </tr>
+         <tr>
+         <td>ESCRIBE TU TAREA:</td>
+          <td> <input type="text" name="txtEtiqueta" ></td>
+          <td>&nbsp</td>
+         </tr>
+         <tr>
+           <td><input type="button" onclick="agregar();" value="agregar"/></td>
+           <td><input type="button" onclick="eliminar();" value="eliminar  "/></td>
+           <td><input type="button" onclick="modificar();"value="editar tarea "/></td>  
+         </tr>
+     </table>
+ </form> 
+        </script>
+        </script>
+</body>
+</html>
